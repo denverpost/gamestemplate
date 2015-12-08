@@ -1,0 +1,60 @@
+.black {
+	background-color: #212121;
+}
+
+.massive {
+	font-family:'Open Sans', Arial,Helvetica,sans-serif;
+	font-size:3.5em;
+	padding-bottom:0.3em;
+	line-height: 1em;
+	font-weight: 800;
+	letter-spacing: -2px;
+	text-align: center;
+	margin-bottom:.15em;
+}
+
+.lessmassive {
+	font-family:'Open Sans', Arial,Helvetica,sans-serif;
+	font-size:3.5em;
+	padding-bottom:0.3em;
+	line-height: 1em;
+	font-weight: 800;
+	letter-spacing: -1px;
+	text-align: center;
+	margin-bottom:.15em;
+}
+
+h2 {
+	font-family:'Open Sans', Arial,Helvetica,sans-serif;
+	font-size:1.1em;
+	font-weight: 600;
+	text-align: center;
+	margin: 0;
+}
+
+h3 {
+	font-family:'Open Sans', Arial,Helvetica,sans-serif;
+	font-size:0.8em;
+	font-weight: 400;
+	margin: 18px;
+}
+
+p.header {
+	margin-bottom:0px;
+}
+
+li.listNoImage {
+	font-family:'Open Sans', Arial,Helvetica,sans-serif;
+	font-size:1em;
+	font-weight: 400;
+	margin:0 0 1em;
+	list-style-type: none;
+
+}
+
+p.videowrap {
+	text-align:center;
+	margin:0;
+	margin-bottom:0;
+	padding:0;
+}
